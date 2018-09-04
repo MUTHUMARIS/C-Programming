@@ -8,7 +8,7 @@ char a;
 	{
 		if(a=='a'||a=='e'||a=='i'||a=='o'||a=='u')
 		{
-			printf("Vowels");
+			printf("Vowel");
 		}
 		else
 		{
