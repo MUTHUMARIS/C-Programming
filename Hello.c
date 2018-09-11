@@ -1,13 +1,12 @@
 #include<stdio.h>
 int main()
 {
- char nm[20];
+ char Hello;
  int i,n;
- scanf("%s",nm);
  scanf("%d",&n);
  for(i=1;i<=n;i++)
  {
-    printf("%s\n",nm);
+    printf("\nHello");
  }
 
   return 0;
